@@ -1,4 +1,4 @@
-Please read in order to run the game properly
+Please read in order to run the game properly.
 This this maze game was made to show my ability to both acess and alter data at the machine level. 
 At the game site below is the artwork, which must be loaded first, by pressing Load Artwork.
 Then pressing Load WASM will begin the game. 
